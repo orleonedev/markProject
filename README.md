@@ -1,7 +1,11 @@
 # markProject
+<img align="right" width="180" height="180" src="markAppIcon.png">
+
 A macOS app SwiftUI macOS tool created around Challenge Based Learning for the Apple Developer Academy.
 * Swift, SwiftUI, AppKit, Networking, Airtable APIs, Python, Pandas, JSON
-<img align="right" width="180" height="180" src="markAppIcon.png">
+
+
+
 <p align="left">
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt= "platform macOS"/> 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt= "language swift"/> 
@@ -13,5 +17,6 @@ A macOS app SwiftUI macOS tool created around Challenge Based Learning for the A
 
 ## Gallery
 
-Check it on [Behance](https://www.behance.net/gallery/175057147/mark-Apple-Developer-Academy)
-<a href="https://www.behance.net/gallery/175057147/mark-Apple-Developer-Academy"><img src="BehanceFinal.pdf"> </a>
+Check it also on -> [<img width="32" src="https://cdn.simpleicons.org/behance/1769FF">](https://www.behance.net/gallery/175057147/mark-Apple-Developer-Academy)
+
+<a href="https://www.behance.net/gallery/175057147/mark-Apple-Developer-Academy"><img src="BehanceFinal.png"> </a>
