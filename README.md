@@ -13,4 +13,5 @@ A macOS app SwiftUI macOS tool created around Challenge Based Learning for the A
 
 ## Gallery
 
-<img src="prom.png">
+Check it on [Behance](https://www.behance.net/gallery/175057147/mark-Apple-Developer-Academy)
+<a href="https://www.behance.net/gallery/175057147/mark-Apple-Developer-Academy"><img src="BehanceFinal.pdf"> </a>
